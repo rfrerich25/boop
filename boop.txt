@@ -1,3 +1,4 @@
+B's
 beep
 boop
 bop
@@ -5,3 +6,13 @@ bloop
 blooey
 blam
 boopy
+
+T's
+thud
+thunk
+thwack
+
+K's
+kachow
+kathunk
+kablooey
